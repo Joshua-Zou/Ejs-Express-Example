@@ -1,0 +1,14 @@
+{
+  "name": "express-ejs-example",
+  "version": "1.0.0",
+  "description": "A test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "author": "Joshua Zou (subscribe)",
+  "license": "MIT"
+}
